@@ -1,6 +1,7 @@
 {
   "solidity.packageDefaultDependenciesContractsDirectory": "src",
   "solidity.packageDefaultDependenciesDirectory": "lib",
+  "solidity.remappings": ["@openzeppelin/=lib/openzeppelin-contracts/","ds-test/=lib/ds-test/src/"],
   "files.associations": {
     ".dapprc": "shellscript"
   }
